@@ -1,0 +1,52 @@
+[
+    { 
+        "id": 1,
+        "cidade": "Curitiba, Paraná",
+        "pontoTuristico": "[Jardim Botânico, Museu Oscar Niemeyer, Parque Tingui]."
+    },
+    { 
+        "id": 2,
+        "cidade": "Salvador, Bahia",
+        "pontoTuristico": "[Pelourinho, Farol da Barra , ilha de Morro de São Paulo]. "
+    },
+    { 
+        "id": 3,
+        "cidade": "Florianópolis, Santa Catarina",
+        "pontoTuristico": "[Praia dos Ingleses, Lagoa da Conceição]"
+    },
+    { 
+        "id": 4,
+        "cidade": "João Pessoa, Paraíba",
+        "pontoTuristico": "[ piscinas naturais de Picãozinho, praia do jacare, piscina de Areia Vermelha]"
+    },
+    { 
+        "id": 5,
+        "cidade": "Rio de Janeiro, Rio de Janeiro",
+        "pontoTuristico": "[Cristo redentor, pao de acucar, praia de copacabana]"
+    },
+    { 
+        "id": 6,
+        "cidade": "Sao Paulo, Sao Paulo",
+        "pontoTuristico": "[Rua 25 de marco, avenida paulista, Museu de Arte Sacra (MASP)]"
+    },
+    { 
+        "id": 7,
+        "cidade": "Caldas Novas, Goiás",
+        "pontoTuristico":"Parque Estadual da Serra de Caldas "
+    },
+    { 
+        "id": 8,
+        "cidade": "Fortaleza, Ceará",
+        "pontoTuristico": "[praia de Iracema, Beack Park, Mercado central de Fortaleza]"
+    },
+    { 
+        "id": 9,
+        "cidade": "Olinda, Pernambuco",
+        "pontoTuristico": "[Alto da Sé, Igreja e mosterio de São Bento, Museu do Mamulengo, Espacio ciencia]"
+    },
+    { 
+        "id": 10,
+        "cidade": "Boa Vista, Roraima",
+        "pontoTuristico": "[Lago do Robertinho, Praça as aguas, Monte Roraima]"
+    }
+]
