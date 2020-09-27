@@ -1,0 +1,52 @@
+[
+    { 
+        "id": 1,
+        "comida": "Feijoada",
+        "paisDeOrigem": "[Portugal, Brasil]"
+    },
+    { 
+        "id": 2,
+        "comida": "Pizza",
+        "paisDeOrigem": "Italia"
+    },
+    { 
+        "id": 3,
+        "comida": "Lasanha",
+        "paisDeOrigem": "Italia"
+    },
+    { 
+        "id": 4,
+        "comida": "Sushi",
+        "paisDeOrigem": "Japao"
+    },
+    { 
+        "id": 5,
+        "comida": "Bolo de rolo",
+        "paisDeOrigem": "Brasil"
+    },
+    { 
+        "id": 6,
+        "comida": "Paella",
+        "paisDeOrigem": "Espanha"
+    },
+    { 
+        "id": 7,
+        "comida": "Donuts",
+        "paisDeOrigem": "EUA"
+    },
+    { 
+        "id": 8,
+        "comida": "Pastel de Nata",
+        "paisDeOrigem": "Portugal"
+    },
+    { 
+        "id": 9,
+        "comida": "Croissant",
+        "paisDeOrigem": "Franca"
+    },
+    { 
+        "id": 10,
+        "comida": "Fajitas",
+        "paisDeOrigem": "Mexico"
+    }
+]
